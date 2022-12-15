@@ -71,7 +71,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"storedData-test.sol": "basicDataChanges"
+			"storedData-test 1.0/storedData-test.sol": "basicDataChanges"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -85,12 +85,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"storedData-test.sol": {
-			"keccak256": "0x430736bea7c289fa2a5b193262fe9d1d31e41b2d94f316245b31906674c6f2b2",
+		"storedData-test 1.0/storedData-test.sol": {
+			"keccak256": "0x403b52a2c8787d9a9d76ea94063ca49a936797731f9c64a15607f323332f81b0",
 			"license": "AFL-3.0",
 			"urls": [
-				"bzz-raw://7111784c0c2a2f879e3420921378cfce0575b167f1ce090e36a81a58c7e99b5d",
-				"dweb:/ipfs/QmRi1DeKSmKacYyCFdyhhejCcc1LQMWHYZFFjrQDL7C1EK"
+				"bzz-raw://1ab992d07fc562a99456f37d8a6d9ed2119dd221e112b82deb0919b9ccdd952b",
+				"dweb:/ipfs/QmejpNN7eiES6MdPitSyg6FWxEJquCL9PrFyBXFngAzTsG"
 			]
 		}
 	},
